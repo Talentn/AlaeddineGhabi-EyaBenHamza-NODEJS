@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "joi": "^17.8.3",
+    "morgan": "^1.10.0"
+  },
+  "name": "ds-node-eyabenhamza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
